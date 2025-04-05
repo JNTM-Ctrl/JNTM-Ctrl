@@ -39,8 +39,7 @@
     
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNTM-Ctrl&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-![Snake animation]([https://raw.githubusercontent.com/JNTM-Ctrl/JNTM-Ctrl/output/github-contribution-grid-snake-dark.svg](https://pub-0c82081a29ed4f04a745cea34d00357b.r2.dev/clydsg666.svg
-))
+![Snake animation]([https://pub-0c82081a29ed4f04a745cea34d00357b.r2.dev/clydsg666.svg])
 
 </div>
 
