@@ -39,7 +39,7 @@
     
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNTM-Ctrl&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-![Snake animation]([https://pub-0c82081a29ed4f04a745cea34d00357b.r2.dev/clydsg666.svg])
+![Snake animation](https://pub-0c82081a29ed4f04a745cea34d00357b.r2.dev/clydsg666.svg)
 
 </div>
 
@@ -70,6 +70,6 @@ while (alive) {
 
 ### 🎨 个性签名
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=人生苦短，我用Python！" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=别看了没东西🤪🤪🤪🥵🥵" />
 
 </div>
