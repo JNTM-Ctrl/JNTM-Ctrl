@@ -2,7 +2,7 @@
     
 # 👋 嗨，这里是 JNTM-Ctrl
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&repeat=false&width=435&lines=这是一个神秘的地方……" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&repeat=false&width=435&lines=这是一个神秘的地方..................🤓" alt="Typing SVG" />
 
 </div>
 
